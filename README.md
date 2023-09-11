@@ -1,4 +1,4 @@
-# Creating a Simple ETL Pipeline Using Airflow and Reddit API
+# ETL Pipeline Using Airflow and Reddit API
 
 
 
