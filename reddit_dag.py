@@ -7,7 +7,7 @@ from reddit_etl import reddit_extract
 
 args = {
 	'owner' : 'airflow', 
-	'start_date' : datetime(2020, 11, 8), 
+	'start_date' : datetime(2023, 9, 8 ), 
 	'email' : ['dlsundar26@gmail.com'], 	
 	'email_on_failure' : False, 
 	'email_on_retry' : False,  
