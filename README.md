@@ -18,3 +18,7 @@
 + AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
 + AWS EC2: Enables you to launch and manage virtual machines, known as instances.
 + Airflow : Airflow is an workflow orchestration tool, we can build schedule and monitor data pipelines.
+
+# Files
++ reddit_etl.py: This file contains the Python ETL script for extracting, transforming, and loading data from Reddit API to AWS S3 using s3fs.
++ reddit_dag.py: This file contains the DAG and task definitions for Airflow.
